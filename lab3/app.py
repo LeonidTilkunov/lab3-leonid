@@ -9,6 +9,8 @@ matplotlib.use('Agg')
 import matplotlib.pyplot as plt
 import seaborn as sns
 
+
+
 UPLOAD_FOLDER = 'images' #папка для загрузки
 ALLOWED_EXTENSIONS = set(['png', 'jpg', 'jpeg'])#возможные форматы
 
